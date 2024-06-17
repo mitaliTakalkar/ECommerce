@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; } */
+
+/* Add this to your styles.css */
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  body {
+    margin: 0;
+    /* font-family: Roboto, "Helvetica Neue", sans-serif; */
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url('/assets/images/backgrndimg.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
